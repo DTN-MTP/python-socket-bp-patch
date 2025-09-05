@@ -6,7 +6,7 @@ from setuptools import setup, find_packages
 install_requires = []
 
 setup(
-    name="socket-bp-patch",
+    name="socket_bp_patch",
     author="",
     version="1.0.0",
     python_requires=">=3.7",
