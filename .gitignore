@@ -1,0 +1,16 @@
+__pycache__/
+.zip
+*.egg-info/
+*eggs/
+.tox/
+.mypy_cache
+.coverage
+# virtual env
+.venv
+# mkdocs
+public/
+site/
+# python package
+build/
+# vscode settings
+.vscode/
